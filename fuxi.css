@@ -2,7 +2,7 @@
 * @Author: lenovo
 * @Date:   2019-06-10 10:13:36
 * @Last Modified by:   lenovo
-* @Last Modified time: 2019-06-17 14:46:54
+* @Last Modified time: 2019-06-23 14:38:17
 */
 *{padding:0px;margin:0px;font-family:微软雅黑;}
 ul,li,ol{list-style: none;}
@@ -13,8 +13,8 @@ a{text-decoration: none}
 .b{font-size:12.93px;color:#797788;margin-right:35px;}
 .c{font-size:14.78px;color:#5d5a5c;margin-right:28px;}
 .d{font-size:14.78px;color:#5d5a5c;margin-right:45px;}
-.e{font-size:14.78px;color:#797788;width:89px;margin-right:6px;;background:url("小三角.png") no-repeat ;background-position: 100% 50%;}
-.f{font-size:14.78px;color:#797788;width:89px;margin-right:16px;background:url("小三角.png") no-repeat ;background-position: 100% 50%;}
+.e{font-size:14.78px;color:#797788;width:89px;margin-right:6px;;background:url("img/小三角.png") no-repeat ;background-position: 100% 50%;}
+.f{font-size:14.78px;color:#797788;width:89px;margin-right:16px;background:url("img/小三角.png") no-repeat ;background-position: 100% 50%;}
 .g{font-size:14.78px;color:#797788;width:89px;}
 
 .box2{height:60px;width:1198px;margin:0px auto;}
@@ -29,12 +29,12 @@ a{text-decoration: none}
 .box3 ul{width:1198px;height:45px;margin-top:22px;}
 .box3{border-top:0px;border-right:0px;border-left:0px;border-bottom:5px;border-color:#3aa747;border-style: solid;}
 .box3 li{float:left;height:42px;text-align:center;line-height:40px;}
-.aaa{width:140px;color:#5a5a5a;font-size:14.78px;background:url("小三角.png") no-repeat;background-position:100% 50%;}
+.aaa{width:140px;color:#5a5a5a;font-size:14.78px;background:url("img/小三角.png") no-repeat;background-position:100% 50%;}
 .bbb{margin-left:30px;height:42px;width:80px;font-size:14.78px;color:#5a5a5a;}
 .bbb:hover{border-top:0px;border-right:0px;border-left:0px;border-bottom:4px;border-color:#3aa747;border-style: solid;}
 
 .n{height:674px;border-bottom:1px solid #7f7f7f;}
-.box5{margin:0px auto;height:674px;width:1919px;background:url("banner.png") no-repeat;}
+.box5{margin:0px auto;height:674px;width:1919px;background:url("img/banner.png") no-repeat;}
 
 .box6{height:60px;width:1198px;margin:0px auto;color:#b4b4b4;}
 .box6 li{margin-left:13px;float:left;margin-top:25px;}
