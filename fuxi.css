@@ -1,0 +1,78 @@
+/*
+* @Author: lenovo
+* @Date:   2019-06-10 10:13:36
+* @Last Modified by:   lenovo
+* @Last Modified time: 2019-06-17 14:46:54
+*/
+*{padding:0px;margin:0px;font-family:微软雅黑;}
+ul,li,ol{list-style: none;}
+a{text-decoration: none}
+
+.box1{width:1198px;height:37px;margin:0px auto;line-height:37px;margin-bottom:32px;}
+.box1 span{height:37px;float:right;}
+.b{font-size:12.93px;color:#797788;margin-right:35px;}
+.c{font-size:14.78px;color:#5d5a5c;margin-right:28px;}
+.d{font-size:14.78px;color:#5d5a5c;margin-right:45px;}
+.e{font-size:14.78px;color:#797788;width:89px;margin-right:6px;;background:url("小三角.png") no-repeat ;background-position: 100% 50%;}
+.f{font-size:14.78px;color:#797788;width:89px;margin-right:16px;background:url("小三角.png") no-repeat ;background-position: 100% 50%;}
+.g{font-size:14.78px;color:#797788;width:89px;}
+
+.box2{height:60px;width:1198px;margin:0px auto;}
+.box2 ul{width: 1198px;height:60px;}
+.box2 li{float:left;}
+.aa{border:1px solid #393942;height:47px;width:540px;margin-left: 180px;margin-top:13px;color:#f4f4f4;font-size:16px;text-align:center;}
+.bb{height:47px;width:60px;border:1px solid #393942;border-left:0px;margin-left:0px;margin-top:13px;} 
+.cc{margin-left:140px;margin-top:13px;}
+
+.box3{height:45px;}
+.box4{height:45px;width:1198px;margin:0px auto;}
+.box3 ul{width:1198px;height:45px;margin-top:22px;}
+.box3{border-top:0px;border-right:0px;border-left:0px;border-bottom:5px;border-color:#3aa747;border-style: solid;}
+.box3 li{float:left;height:42px;text-align:center;line-height:40px;}
+.aaa{width:140px;color:#5a5a5a;font-size:14.78px;background:url("小三角.png") no-repeat;background-position:100% 50%;}
+.bbb{margin-left:30px;height:42px;width:80px;font-size:14.78px;color:#5a5a5a;}
+.bbb:hover{border-top:0px;border-right:0px;border-left:0px;border-bottom:4px;border-color:#3aa747;border-style: solid;}
+
+.n{height:674px;border-bottom:1px solid #7f7f7f;}
+.box5{margin:0px auto;height:674px;width:1919px;background:url("banner.png") no-repeat;}
+
+.box6{height:60px;width:1198px;margin:0px auto;color:#b4b4b4;}
+.box6 li{margin-left:13px;float:left;margin-top:25px;}
+.a4{font-size:18px;color:#000000;}
+.a5{margin-right:940px;}
+
+.box7{width:1198px; margin:0px auto;}
+.c1{border-bottom:1px solid #cccccc;border-left:1px solid #cccccc;border-right:1px solid #cccccc;}
+.b1{width:100px;height:44px;background-color: #e5e5e5;margin-right:40px;}
+.c1 li{display:inline-block;text-align:center;line-height:44px;}
+.b2{margin-right:77px;width:50px;color:#737373;}
+.b3{color:#737373;}
+.b4{color:#737373;margin-left:180px;}
+
+.box8{height:618px;width:1198px;margin:0px auto;margin-top:59px;}
+.box8 li{float:left;border:1px solid #878787;width:273px;height:292px;position:relative;}
+.c2{margin-left:30px;margin-bottom:30px;}
+.c2 div{height:55px;width:273px;opacity: 0.7;background-color: #000000;position:absolute;bottom:0px;color:#ffffff;}
+.c3 div{height:55px;width:273px;opacity: 0.7;background-color: #000000;position:absolute;bottom:0px;color:#ffffff;}
+.box8 p{width:273px;height:25.5px;line-height:25.5px;text-align:center;}
+.box8  li:hover div{width:273px;height:292px;opacity: 0.7;background:#000000;position:absolute;top:0px;left:0px;}
+.box8 li:hover p{width:273px;height:22.14px;font-size:22.14px;}
+.box8 li:hover .p1{margin-top:122px;margin-bottom:32px;}
+
+.box9{height:102px;background-color: #f5f5f5;margin-top:143px;}
+.box10{height:102px;width:1198px;margin:0px auto;}
+.dd{width:298px;height:50px;float:left;border-right:1px solid #e0e0e0;margin-top:33px;}
+.dd li{float:left;}
+.ee{margin-left:40px;margin-right:40px;}
+
+.box11{height:100px;background-color: #323232;}
+.box12{height:100px;width:1198px;margin:0px auto;position:relative;}
+.box12 li{float:left;color:#ffffff;font-size:13px;margin-right:17px;margin-top:34px;}
+.box12 ul{margin-left:210px;}
+.box12 p{position:absolute;left:463px;top:70px;font-size:14px;color:#ffffff;font-family:微软雅黑;}
+
+.box13 li{height:120px;width:80px;background-color:#000000;border-bottom:1px solid #595a5d;}
+.box13 img{padding-top:47px;padding-left:20px;}
+.box13{margin:0px auto;position:fixed;top:200px;right:0px;}
+
+
